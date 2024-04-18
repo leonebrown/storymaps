@@ -1,0 +1,1 @@
+This GitHub folder serves as an example for hosting interactive images, e.g., maps, that can then be shared or accessed by users from platforms outside of the local server.
